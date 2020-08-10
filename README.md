@@ -31,7 +31,7 @@
 
 <br />
 
-Icons provided by <a href='https://simpleicons.org/'>Simple Icons</a> and <a href='https://icons8.com/'>Icons8</a>
+>Icons provided by <a href='https://simpleicons.org/'>Simple Icons</a> and <a href='https://icons8.com/'>Icons8</a>
 
 <br />
 <br />
