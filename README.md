@@ -29,7 +29,7 @@
 <img align='left' width='26px' src='https://img.icons8.com/plasticine/100/000000/react.png'/>
 <img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg'/>
 
-
+<br />
 Icons provided by <a href='https://simpleicons.org/'>Simple Icons</a> and <a href='https://icons8.com/'>Icons8</a>
 
 <br />
