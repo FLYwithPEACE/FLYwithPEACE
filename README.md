@@ -21,14 +21,17 @@
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg'/>]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/atom.svg'/>]
 [<img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/autodesk.svg'/>]
-[<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css.svg'/>]
+[<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg'/>]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg'/>]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg'/>]
-[<img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoffice'/>]
+[<img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoffice.svg'/>]
 [<img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg'/>]
 [<img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qgis.svg'/>]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg'/>]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg'/>]
+
+<br />
+<br />
 
 [gmail]: mailto:fede.liuyang@gmail.com
 [linkedin]: https://www.linkedin.com/in/federico-liu-yang/
