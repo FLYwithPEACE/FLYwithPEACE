@@ -45,5 +45,5 @@ Icons provided by <a href='https://simpleicons.org/'>Simple Icons</a> and <a hre
 [linkedin]: https://www.linkedin.com/in/federico-liu-yang/
 [instagram]: https://www.instagram.com/fedeliuyang/
 [reddit]: https://www.reddit.com/user/flywithpeace
-[wechat]: https://www.reddit.com/user/flywithpeace
+[wechat]: https://github.com/FLYwithPEACE/FLYwithPEACE/blob/master/IMG_1204.JPG
 [discord]: https://discord.gg/sQE7d95
