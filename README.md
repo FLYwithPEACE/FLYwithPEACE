@@ -1,10 +1,10 @@
 ### Welcome to my GitHub.com profile
 
-## My name is Federico aka FLYwithPEACE
-- I graduated as Enviromental Engineer.
-- I am currently learning web development and data science.
-- I compete in hackathons for fun.
-- 2020 resolution: Learn and improve.
+## My name is Federico aka FLYwithPEACE 👋
+- 🎓 I graduated as Enviromental Engineer.
+- 📚 I am currently learning web development and data science.
+- 👊 I compete in hackathons for fun.
+- 📅 2020 resolution: Learn and improve.
 
 ### Contact me:
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg'/>][gmail]
@@ -22,6 +22,8 @@
 <img align='left' width='26px' src='https://img.icons8.com/flat_round/64/000000/autodesk-autocad.png'/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/css3.png'/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/html-5.png'/>
+<img align='left' width='26px' src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align='left' width='26px' src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/javascript.png'/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/office-365.png'/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/python.png'/>
