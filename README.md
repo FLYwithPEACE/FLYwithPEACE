@@ -25,6 +25,7 @@
 <img align='left' width='26px' src="https://img.icons8.com/color/48/000000/git.png"/>
 <img align='left' width='26px' src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/javascript.png'/>
+<img align='left' width='26px' src="https://img.icons8.com/nolan/64/matlab.png"/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/office-365.png'/>
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/python.png'/>
 <img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qgis.svg'/>
