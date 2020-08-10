@@ -30,7 +30,7 @@
 <img align='left' width='26px' src='https://img.icons8.com/color/48/000000/python.png'/>
 <img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/qgis.svg'/>
 <img align='left' width='26px' src='https://img.icons8.com/plasticine/100/000000/react.png'/>
-<img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg'/>
+<img width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg'/>
 
 ---
 
