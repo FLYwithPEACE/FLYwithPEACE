@@ -30,7 +30,8 @@
 <img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg'/>
 
 <br />
-Icons provided by <a href='https://simpleicons.org/'>Simple Icons</a> and <a href='https://icons8.com/'>Icons8</a>
+
+<div>Icons provided by <a href='https://simpleicons.org/'>Simple Icons</a> and <a href='https://icons8.com/'>Icons8</a></div>
 
 <br />
 <br />
