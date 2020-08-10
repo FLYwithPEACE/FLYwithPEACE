@@ -32,11 +32,7 @@
 <img align='left' width='26px' src='https://img.icons8.com/plasticine/100/000000/react.png'/>
 <img align='left' width='26px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg'/>
 
-<br />
-
 ---
-
-<br />
 
 <img alt="Anurag's github stats" src='https://github-readme-stats.vercel.app/api?username=FLYwithPEACE&show_icons=true&theme=radical' />  <br />
 
