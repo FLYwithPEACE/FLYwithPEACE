@@ -1,11 +1,10 @@
 ### Welcome to my GitHub.com profile
 
 ## My name is Federico and I go by FLYwithPEACE for most ign's
-- I graduated as Enviromental Engineer
-- I am currently learning web development and data science
-- I compete in hackathons for fun
-- 2020 resolution: I got none
-- Fun fact about me: I know 3 languages
+- I graduated as Enviromental Engineer.
+- I am currently learning web development and data science.
+- I compete in hackathons for fun.
+- 2020 resolution: Learn and improve.
 
 ### Contact me:
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg'/>][gmail]
