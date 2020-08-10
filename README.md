@@ -1,6 +1,6 @@
 ### Welcome to my GitHub.com profile
 
-## My name is Federico and I go by FLYwithPEACE for most ign's
+## My name is Federico aka FLYwithPEACE
 - I graduated as Enviromental Engineer.
 - I am currently learning web development and data science.
 - I compete in hackathons for fun.
