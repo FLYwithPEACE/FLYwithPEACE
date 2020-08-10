@@ -9,7 +9,7 @@
 
 ### Contact me:
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg'/>][gmail]
-[<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][linkedin]d
+[<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][linkedin]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg'/>][instagram]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg'/>][reddit]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg'/>][wechat]
@@ -34,5 +34,5 @@
 [linkedin]: https://www.linkedin.com/in/federico-liu-yang/
 [instagram]: https://www.instagram.com/fedeliuyang/
 [reddit]: https://www.reddit.com/user/flywithpeace
-[wechat]: 
+[wechat]: https://www.reddit.com/user/flywithpeace
 [discord]: https://discord.gg/sQE7d95
