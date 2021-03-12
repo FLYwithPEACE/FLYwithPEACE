@@ -4,7 +4,7 @@
 - 🎓 I graduated as Enviromental Engineer.
 - 📚 I am currently learning web development and data science.
 - 👊 I compete in hackathons for fun.
-- 📅 2020 resolution: Learn and improve.
+- 📅 2021 resolution: Develop my first Deep Learning capable program.
 
 ### Contact me:
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg'/>][gmail]
