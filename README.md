@@ -9,7 +9,6 @@
 ### Contact me:
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg'/>][gmail]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg'/>][linkedin]
-[<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg'/>][instagram]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg'/>][reddit]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg'/>][wechat]
 [<img align='left' width='22px' src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg'/>][discord]
